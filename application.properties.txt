@@ -1,2 +1,0 @@
-eureka.instance.client.serverURL.defaultZone=http://localhost:8761/eureka/
-eureka.client.instance.hostname=localhost
